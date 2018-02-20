@@ -1,0 +1,25 @@
+{
+  "days": [
+    { "id": 1, "day": "saturday" },
+    { "id": 2, "day": "monday" },
+    { "id": 3, "day": "tuesday" },
+	{ "id": 4, "day": "wednesday" },
+	{ "id": 5, "day": "thursday" },
+	{ "id": 6, "day": "firday" },
+	{ "id": 7, "day": "sunday" }
+  ],
+  "quotes": [
+    { "id": 1, "day_id": 1 , "quote": "Your best teacher is your last mistake" , "author_id": 1},
+    { "id": 2, "day_id": 2 , "quote": "You will never have this day again, so make it count" , "author_id": 1},
+    { "id": 3, "day_id": 3 , "quote": "Keep your face always toward the sunshine - and shadows will fall behind you.", "author_id": 2},
+	{ "id": 4, "day_id": 4 , "quote": "Never tell anyone your plans, show them your results" , "author_id": 1},
+	{ "id": 5, "day_id": 5 , "quote": "Be curious, not judgmental." , "author_id": 2},
+	{ "id": 6, "day_id": 6 , "quote": "We were together. I forget the rest." , "author_id": 2},
+	{ "id": 7, "day_id": 7 , "quote": "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present." , "author_id": 3}
+  ],
+  "authors": [
+    { "id": 1, "author": "Anonymous"},
+    { "id": 2, "author": "Walt Whitman"},
+    { "id": 3, "author": "Lao Tzu"}
+  ]
+}
